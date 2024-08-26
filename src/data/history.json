@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Engineer- INTERN",
+    "organisation": "ITJOBXS",
+    "startDate": "FEB, 2024",
+    "endDate": "JULY, 2024",
+    "experiences": ["Worked on Design and development of fully responsive webpage for a particular section of itjobxs.com", "Worked on User Verification/Authentication + Engineering challenges of detecting and removing the fake bots and posts"],
+    "imageSrc": "history/itjobxs.png"
+  },
+  {
+    "role": "INTERN",
+    "organisation": "Hindustan Aeronautics Limited (HAL)",
+    "startDate": "JUNE, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Gained knowledge about testing department through daily test analysis and actively participate in learning about `Simulating Elevon Movement in aircraft`", " Developed an aircraft model using Arduino to simulate and understand pitch and roll dynamics."],
+    "imageSrc": "history/images.jpeg"
+  }
+]

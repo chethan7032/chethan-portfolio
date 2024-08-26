@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Tech Enlightenment",
+    "imageSrc": "projects/te.png",
+    "description": " It is real time project, website consists of all the useful stuff for a developer and students.",
+    "skills": ["Html", "Css", "Javascript"],
+    "demo": "https://chethan7032.github.io/",
+    "source": "https://github.com/chethan7032/chethan7032.github.io"
+  },
+  {
+    "title": "parking-slot-indicator",
+    "imageSrc": "projects/smartparking.jpg",
+    "description": "This project focuses on developing a webbased Parking Spot Indicator system for efficient parking space management",
+    "skills": ["Html", "css", "Python", "flask"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/chethan7032/parking-slot-indicator-main-project-"
+  },
+  {
+    "title": "Taste-Dash",
+    "imageSrc": "projects/foodapp.jpg",
+    "description": "Developed a food ordering application using MERN stack",
+    "skills": ["React", "Express", "Node" ,"MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/chethan7032/Taste-Dash-Food-ordering-app-"
+  }
+]
